@@ -48,7 +48,7 @@ ABOUT JSHARP Advantages:-
   
  
  3) IT  is    also  used    for   secure    purpose    ,  so  it   is  said  to  be  secure  ProgrammingLanguage  when  used   with WDBAJ$.
-4)  It  is  an  User   Friendly  Technology.
+4)  It  is  an  User   Friendly  P.L
 5)  It  is   also    used in  GUI   design   like JAVA SWING .
 6)  It also support webservice.
 
