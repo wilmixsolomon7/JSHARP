@@ -42,12 +42,12 @@ Advantages:
 
 ABOUT JSHARP Advantages:-
 =======================
- 1) It  is    mainly    used    in   Cloud  Computing, Enterprise,  mobility,etc.
+ 1) It  is    mainly    used    in  Remote webpages / Terminal WebService, Enterprise,  mobility,etc.
 
  2) It   is  an  interactive   or  friendly  Technology.
   
  
- 3) IT  is    also  used    for   secure    purpose    ,  so  it   is  said  to  be  secure    technology  when  used   with WDBAJ$.
+ 3) IT  is    also  used    for   secure    purpose    ,  so  it   is  said  to  be  secure  ProgrammingLanguage  when  used   with WDBAJ$.
 4)  It  is  an  User   Friendly  Technology.
 5)  It  is   also    used in  GUI   design   like JAVA SWING .
 6)  It also support webservice.
@@ -77,5 +77,7 @@ Used to construct remote software.
 14)  JSHARP   is  used with  Struts ,spring  ,Jsf, hibernate,mybatics,ajax,etc
 
 so    it  is    the   great  advantage for java/j2ee.
+
+and  it  is    easy  to   deploy in cloud servers.
 
 Consists of 3 major  modules CDollar ,Gdollar, JSTAR concepts. where JDollar-cdollar is simillar to CDollar concepts but it run in SLINGv.1 os.
