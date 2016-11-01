@@ -1,20 +1,20 @@
 # JSHARP
 ==========
 
-JSHARP  is  otherwise known  as JDollarSHARP is  inveted  in JDollar  technology  by wilmix jemin j;  but  it  is   used only  in  unix  type  os. 
+JSHARP  is  otherwise known  as JDollarSHARP is  invented  in JDollar ProgrammingLanguage  by wilmix jemin j;  but  it  is   used only  in  unix  type  os. 
 
 
-JSHARP  is  otherwise known  as JDollarSHARP is  inveted  in JDollar  technology  by wilmix jemin j;  but  it  is   used only  in  unix  type  os. 
+JSHARP  is  otherwise known  as JDollarSHARP is  invented  in JDollar   ProgrammingLanguage  by wilmix jemin j;  but  it  is   used only  in  unix  type  os. 
 
 It  consists of modules  like  w++,oplus,o$,vslash,S@,o$,jhsf,mybatics,
 petal,pearls,J@, W*and  wxml, T$, H@ ,CWP, JHSOn, JAUF, w#,JSHARP,J$SHARP,IDollar, Odollar,Hiber.
 
 Note: Here we  use only   JAVA/J2ee technology with  JAVA runtime.
 
-and  Remoteserver  and  this  technology  is  invented in JDollar Technology.
+and  Remoteserver  and  this  ProgrammingLanguage  is  invented in JDollar Technology.
 
 
-JSHARP  will  run   only  in SLING  os.
+JSHARP  will  run   only  in SLING  os  or  GALAXYOS 
 
 Since  java class  file  code  is  seen  using  JAD.
 
