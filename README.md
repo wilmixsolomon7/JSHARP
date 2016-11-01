@@ -44,7 +44,7 @@ ABOUT JSHARP Advantages:-
 =======================
  1) It  is    mainly    used    in  Remote webpages / Terminal WebService, Enterprise,  mobility,etc.
 
- 2) It   is  an  interactive   or  friendly  Technology.
+ 2) It   is  an  interactive   or  friendly P.L.
   
  
  3) IT  is    also  used    for   secure    purpose    ,  so  it   is  said  to  be  secure  ProgrammingLanguage  when  used   with WDBAJ$.
