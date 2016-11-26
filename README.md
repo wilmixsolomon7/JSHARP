@@ -1,10 +1,7 @@
 # JSHARP
 ==========
 
-JSHARP  is  otherwise known  as JDollarSHARP is  invented  in JDollar ProgrammingLanguage  by wilmix jemin j;  but  it  is   used only  in  unix  type  os. 
-
-
-JSHARP  is  otherwise known  as JDollarSHARP is  invented  in JDollar   ProgrammingLanguage  by wilmix jemin j;  but  it  is   used only  in  unix  type  os. 
+JSHARP  is  otherwise known  as JDollarSHARP is  invented  in JDollar ProgrammingLanguage  by wilmix jemin j; 
 
 It  consists of modules  like  w++,oplus,o$,vslash,S@,o$,jhsf,mybatics,
 petal,pearls,J@, W*and  wxml, T$, H@ ,CWP, JHSOn, JAUF, w#,JSHARP,J$SHARP,IDollar, Odollar,Hiber.
@@ -80,4 +77,4 @@ so    it  is    the   great  advantage for java/j2ee.
 
 and  it  is    easy  to   deploy in cloud servers.
 
-Consists of 3 major  modules CDollar ,Gdollar, JSTAR concepts. where JDollar-cdollar is simillar to CDollar concepts but it run in SLINGv.1 os.
+Consists of 3 major  modules CDollar ,Gdollar, JSTAR concepts. where JDollar-cdollar is simillar to CDollar concepts .
