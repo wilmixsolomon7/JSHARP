@@ -11,7 +11,7 @@ Note: Here we  use only   JAVA/J2ee technology with  JAVA runtime.
 and  Remoteserver  and  this  ProgrammingLanguage  is  invented in JDollar Technology.
 
 
-JSHARP  will  run   only  in SLING  os  or  GALAXYOS 
+JSHARP  will  run   only  in Windows os
 
 Since  java class  file  code  is  seen  using  JAD.
 
