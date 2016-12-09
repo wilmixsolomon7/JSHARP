@@ -1,14 +1,14 @@
 # JSHARP
 ==========
 
-JSHARP  is  otherwise known  as JDollarSHARP is  invented  in JDollar ProgrammingLanguage  by wilmix jemin j; 
+JSHARP  is  otherwise known  as WEBSHARP is  invented  in WEB ProgrammingLanguage  by wilmix jemin j; 
 
 It  consists of modules  like  w++,oplus,o$,vslash,S@,o$,jhsf,mybatics,
-petal,pearls,J@, W*and  wxml, T$, H@ ,CWP, JHSOn, JAUF, w#,JSHARP,J$SHARP,IDollar, Odollar,Hiber.
+petal,pearls,J@, W*and  wxml, T$, H@ ,CWP, JHSOn, JAUF, w#,JSHARP,JSHARP,IDollar, Odollar,Hiber.
 
 Note: Here we  use only   JAVA/J2ee technology with  JAVA runtime.
 
-and  Remoteserver  and  this  ProgrammingLanguage  is  invented in JDollar Technology.
+and  Remoteserver  and  this  ProgrammingLanguage  is  invented in WEB Technology.
 
 
 JSHARP  will  run   only  in Windows os
@@ -20,14 +20,14 @@ JAVA  class file is  converted  to .wl class file  format.
 which  can't be read by hackers.
 
 
-The  MAJOR  modules   used are
+The  MAJOR  modules   used are 
 
 
 a)  JAVA/j2ee
 
-b) Cdollar 
+ b) WDollar 
 
-c)  JDollar.
+c)  WEB.
 
 
 
@@ -63,7 +63,7 @@ this remoteserver server can be run easily and saves time and cost.
 
 11) It allows multiple submits on server page without any framework.
 
-J$EE have features like CMP,BMP, ASync like JAVA /J2ee concepts.
+JEE have features like CMP,BMP, ASync like JAVA /J2ee concepts.
 
 12) Used JAUF framework for Quick MVC design and thus saves time and cost.
 
@@ -71,10 +71,10 @@ It also function like servlet and jsp.
 
 Used to construct remote software.
 
-14)  JSHARP   is  used with  Struts ,spring  ,Jsf, hibernate,mybatics,ajax,etc
+14)  JSHARP   is  used with  Struts ,spring  ,Jsf, hibernate,mybatics,ajax,etc.
 
 so    it  is    the   great  advantage for java/j2ee.
 
 and  it  is    easy  to   deploy in cloud servers.
 
-Consists of 3 major  modules CDollar ,Gdollar, JSTAR concepts. where JDollar-cdollar is simillar to CDollar concepts .
+Consists of 3 major  modules Gdollar, JSTAR concepts. 
